@@ -1,0 +1,7 @@
+-pm=0.01
+-pc=0.9
+-GEN=50
+-POB=32
+-CPUS=32
+-a=NSGA2
+-f=over_all_base_withBus.csv
